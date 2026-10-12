@@ -1,0 +1,30 @@
+{
+  "currency": "RUB",
+  "tariffs": [
+    {
+      "days": 1,
+      "price": 29
+    },
+    {
+      "days": 3,
+      "price": 79
+    },
+    {
+      "days": 7,
+      "price": 169
+    },
+    {
+      "days": 14,
+      "price": 299
+    },
+    {
+      "days": 30,
+      "price": 499
+    }
+  ],
+  "card_details": "2202 2000 0000 0000 Сбер Иван И.\n+7 777 777 77 77 Сбер Иван",
+  "gateways": {
+    "cryptobot": true,
+    "card_rub": true
+  }
+}

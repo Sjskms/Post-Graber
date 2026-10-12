@@ -1,0 +1,26 @@
+{
+  "bot_logging": true,
+  "telegram_logging": true,
+  "console_logging": false,
+  "file_logging": false,
+  "telegram_log_chat_id": null,
+  "file_cleanup_period": "1_week",
+  "events": {
+    "new_user": true,
+    "session_added": true,
+    "session_removed": true,
+    "forward_success": true,
+    "forward_filtered": false,
+    "forward_error": true,
+    "forwarding_enabled": true,
+    "forwarding_disabled": true,
+    "bot_error": true,
+    "other": true,
+    "payment_success": true,
+    "payment_pending": true,
+    "payment_rejected": true,
+    "payment_cryptobot": true,
+    "payment_card": true,
+    "payment_only_unpaid": false
+  }
+}
